@@ -3,4 +3,6 @@
 - 🌱 I’m a student of BSIT and enthusiast about Web3 and Dapps...
 - 📫 I did some projects made them public that everyone can take advantage and proceed forward...
 
+![bitdegree-certificate-1339610](https://user-images.githubusercontent.com/79154960/184826661-89c12202-aca6-4d0b-84dc-bc8e80e24d4a.jpeg)
+
 [Python Certificate 2001-3000_937.pdf](https://github.com/MuhammadYasirSiraj/MuhammadYasirSiraj/files/9348811/Python.Certificate.2001-3000_937.pdf)
