@@ -4,6 +4,8 @@ Data and Business Analyst with a strong background, seeking a challenging positi
 
 - **Google Data Analytics Professional Certification:** https://coursera.org/share/9c348644e08e043281ed49cc11fde6c8
 
+- **Google Path to Insights: Data Models and Pipelines:** https://coursera.org/share/0a77b44878919251d2c13b65321be0df
+
 - **Excel for Data Analysis Course:** https://www.coursera.org/account/accomplishments/certificate/WMHWSDKH3C3M
 
 - **The Structured Query Language (SQL) Course:** https://www.coursera.org/account/accomplishments/certificate/JQTQVSLBLALZ
