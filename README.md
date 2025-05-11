@@ -1,4 +1,4 @@
-👋 **Hi, I’m @MuhammadYasirSiraj...** — a data professional who doesn’t just analyze data, but architects the entire flow. From data warehousing and ETL to modeling, analysis, and storytelling, I design systems that turn raw information into business intelligence.
+👋 **Hi, I’m @MuhammadYasirSiraj** — a data professional who doesn’t just analyze data, but architects the entire flow. From data warehousing and ETL to modeling, analysis, and storytelling, I design systems that turn raw information into business intelligence.
 
 Armed with SQL, Python, and advanced visualization, I build solutions that don’t just explain the data — they move businesses to act, scale, and compete smarter.
 
