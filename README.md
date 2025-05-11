@@ -1,6 +1,6 @@
-👋 **Hi, I’m @MuhammadYasirSiraj...**
+👋 **Hi, I’m @MuhammadYasirSiraj...** — a data professional who doesn’t just analyze data, but architects the entire flow. From data warehousing and ETL to modeling, analysis, and storytelling, I design systems that turn raw information into business intelligence.
 
-Data Analyst with a strong background, seeking a challenging position to leverage analytical skills, business acumen, and expertise in SQL, Python, Tableau, Power BI and Excel. Committed to driving data-informed decision-making and optimizing business performance. Passionate about translating complex data into actionable insights to support strategic business goals. Seeking a dynamic environment to further enhance skills and contribute to organizational success as a Data and Business Analyst.
+Armed with SQL, Python, and advanced visualization, I build solutions that don’t just explain the data — they move businesses to act, scale, and compete smarter.
 
 - **Google Data Analytics Professional Certification:** https://coursera.org/share/9c348644e08e043281ed49cc11fde6c8
 
